@@ -6,3 +6,6 @@ Added a new line
 3. Checked whether head points to newly created branch: git branch.
 4. Seen loging information: git log --oneline --decorage --graph.
  
+
+
+Changing scenario.
