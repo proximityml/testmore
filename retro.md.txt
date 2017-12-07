@@ -1,2 +1,8 @@
 Hello git!
 Added a new line
+
+1. Made a branch using: git branch retro_2
+2. Changed the HEAD reference to newly created branch retro_2 : git checkout retro_2
+3. Checked whether head points to newly created branch: git branch.
+4. Seen loging information: git log --oneline --decorage --graph.
+ 
